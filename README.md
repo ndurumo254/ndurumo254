@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ndurumo254
-- 👀 I’m interested in data engineering\machine learning\ deep learning\ data science
-- 🌱 I’m currently learning aws cloud computing
+- 👋 Hi, I’m ERICK MURIUKI MURIUNGI
+- 👀 I’m interested in data engineering\machine learning\ deep learning\ data science. I have built a number of data pipelines in AWS cloud computing.
+- 🌱 I’m currently learning DOCKER 
 - 💞️ I’m looking to collaborate on data engineering role
 - 📫 How to reach me through gmail: erickndurumo@gmail.com
 
