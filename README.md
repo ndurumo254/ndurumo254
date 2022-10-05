@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ERICK MURIUKI MURIUNGI
-professionally am trained as electrical and electronics engineer.
+- 👀 professionally am trained as electrical and electronics engineer.
 - 👀 I’m interested in data engineering\machine learning\ deep learning\ data science. I have built a number of data pipelines in AWS cloud computing.
 - 🌱 I’m currently learning DOCKER 
 - 💞️ I’m looking to collaborate on data engineering role
