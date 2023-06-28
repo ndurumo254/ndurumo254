@@ -8,7 +8,7 @@ Inspired junior data engineer developer with experience in Python script program
 
 * 🌍  I'm based in nairobi
 * ✉️  You can contact me at [erickndurumo@gmail.com](mailto:erickndurumo@gmail.com)
-* 🤝  I'm open to collaborating on Ml Projects
+* 🤝  I'm open to collaborating on Ml and python Projects 
 
 ### Skills
 
