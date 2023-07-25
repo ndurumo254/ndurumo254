@@ -4,7 +4,7 @@ Hi 👋 My name is Erick Muriungi Muriuki
 machine learning enthusiastic
 -----------------------------
 
-I am a data engineer developer with experience in Python script programming and broad expertise in big data technology such as Spark, Python programming language, machine learning skills, and cloud computing databases. I am building a career in both the finance and medical industry, and I am passionate about learning new things in the industry. I have a strong interest in open-source projects and believe that they are a great way to learn new skills and contribute to the community. I have worked on several open-source projects in the past, and I am always looking for new opportunities to learn and grow.
+I am an Engineer, and developer with experience in Python script programming and broad expertise in big data technology such as Spark, Python programming language, machine learning skills, and cloud computing databases. I am building a career in both the finance and medical industry, and I am passionate about learning new things in the industry. I have a strong interest in open-source projects and believe that they are a great way to learn new skills and contribute to the community. I have worked on several open-source projects in the past, and I am always looking for new opportunities to learn and grow.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [erickndurumo@gmail.com](mailto:erickndurumo@gmail.com)
